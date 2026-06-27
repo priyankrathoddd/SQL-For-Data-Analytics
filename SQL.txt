@@ -1,0 +1,12 @@
+SQL- Its is a language to manage database System - (SQL is used in RDBMS  inshort sql is for making relations)
+SQL- language(Manage Database)
+MySQL Workbench is a software
+DBMS- Database Management System
+RDBMS- Relational Database Management System 
+
+DDL- Data Defination Language.(Eg. Creating tables with column)
+1-Creating a structure.
+
+DML- Data Manipulation Language.(Eg. Inserting Data)
+
+DQL- Data Query Language.
